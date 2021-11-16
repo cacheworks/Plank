@@ -1,6 +1,6 @@
 ## #!/kb/plank
 
-A Plank keyboard
+A Plank keyboard generated using Ergogen
 
 `
 ℹ️ This keyboard was made to show how a Plank layout could be made in Ergogen.`  
