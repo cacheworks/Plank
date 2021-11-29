@@ -1,3 +1,6 @@
+units:
+  visual_x: 17.5
+  visual_y: 16.5
 points:
   zones:
     matrix:
